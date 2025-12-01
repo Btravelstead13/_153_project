@@ -25,11 +25,11 @@ img {
     
 }
  a:link {
-      color: #e6d095; 
+      color: tan; 
     }
 
     a:visited {
-      color: purple; 
+      color: orange; 
     }
 
     a:hover {
@@ -40,5 +40,5 @@ img {
       color: orange; 
     }
     a {
-        font-size: 150%; ;
+        font-size: 175%; ;
     }
