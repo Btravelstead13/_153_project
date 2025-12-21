@@ -22,7 +22,8 @@ p {
 img {
     align-content: center;
     padding: 10px;
-    
+    height: 300px;
+    width: 600px;
 }
  a:link {
       color: tan; 
