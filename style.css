@@ -1,5 +1,6 @@
 * {
     line-height: 150%;
+    box-sizing: border-box
 }
 body {
     background-color: #809786;
@@ -19,11 +20,13 @@ div {
 p {
     text-indent: 2em;
 }
+
 img {
-    align-content: center;
-    height: auto;
-    width: 60%;
+  width: 200px;
+  padding: 20px;
+  border: 5px solid black;
 }
+
  a:link {
       color: tan; 
     }
