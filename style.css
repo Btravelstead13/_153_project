@@ -16,18 +16,21 @@ table {
 }
 div {
     text-align: center;
+    display: block;
+    margin: 20px auto;
+    width: 65vw;
 }
 p {
     text-indent: 2em;
     display: block;
-    margin: 0 auto;
-    width: 700px;
+    margin: 20px auto;
+    width: 65vw;
 }
 
 img {
     display: block;
-    margin: 0 auto;
-    width: 600px;
+    margin: 20px auto;
+    width: 50vw;
     border: 5px solid black;
     border-radius: 20px;
 }
